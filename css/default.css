@@ -1,0 +1,7 @@
+.pagination{color:#666;padding: 4px 2px 4px 7px; margin: 4px 0;}
+.pagination  a:link, .pagination a:visited, .pagination a:hover, .pagination a:active {color:#06757C;text-decoration:none;background:#EFF8FC;padding:2px 5px;border: 1px solid #ccc; margin-right:1px; border-radius: 2px 2px 2px 2px;}
+.pagination  a:hover {background:#06757C;color:#EFF8FC}
+.pagination  .current {background:#06757C;color:#EFF8FC}
+.pagination  span {text-decoration:none;background:#EFF8FC;padding:2px 5px;border: 1px solid #ccc;color:#ccc; margin-right:1px; border-radius: 2px 2px 2px 2px;}
+.pagination * {margin:0}
+.pagination h4 {margin-top:-1.45em;padding:0;border:none}
